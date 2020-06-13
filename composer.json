@@ -13,5 +13,8 @@
             "email": "push.webstudio@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"afashio\\shop\\": "src/"}
+    },
     "minimum-stability": "dev"
 }
