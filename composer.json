@@ -1,0 +1,17 @@
+{
+    "name": "afashio/yii2-shop",
+    "description": "shop module",
+    "type": "library",
+    "require": {
+        "creocoder/yii2-translateable": "^1.0",
+        "vova07/yii2-imperavi-widget": "^2.0",
+        "kartik-v/yii2-widget-fileinput": "^1.0@dev"
+    },
+    "authors": [
+        {
+            "name": "afashio",
+            "email": "push.webstudio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
